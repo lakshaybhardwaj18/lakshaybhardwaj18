@@ -50,8 +50,9 @@ Currently open to **full-stack**, **distributed systems / SDE** and **agentic AI
 **Tools** &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 ## Currently
-
 - Extending the **agentic root-cause debugger** for low-observability microservices (MCA dissertation)
+- Deep dive into Microservices & Distributed Systems
+- Master System Design (HLD + LLD) 
 - Sharpening data structures and algorithms for interviews
 - Building more with LangGraph and agent workflows
 
