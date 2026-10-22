@@ -6,7 +6,7 @@
 
 Final-year MCA @ VIT Vellore · Designing systems that scale and agents that reason
 
-[LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Email](mailto:YOUR-EMAIL) · [Resume](YOUR-RESUME-LINK)
+[LinkedIn](https://linkedin.com/in/lakshaybhardwaj18) · [Email](mailto:lakshayb0018@gmail.com) · [Resume](https://drive.google.com/file/d/1dP_4qTfKapL1C8sztnfyPHH1_LU5nvMo/view?usp=drive_link)
 
 </div>
 
