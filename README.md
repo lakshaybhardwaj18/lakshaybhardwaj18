@@ -29,10 +29,10 @@ Currently open to **full-stack**, **distributed systems / SDE** and **agentic AI
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**Agentic AI Debugger**](https://github.com/lakshaybhardwaj18/Agentic_AI-Debugger) | Multi-agent pipeline (Collector, Correlator, Reasoner, Verifier, Reporter) that finds root causes of microservice failures from unstructured logs, with no distributed tracing. Includes a timestamp- and dependency-based correlation engine, an LLM self-verification loop with automatic retry, a real-time CLI, and an evaluation harness checked against real Bid-Rush bugs. | Python, FastAPI, LangGraph, Groq |
-| [**Bid-Rush**](https://github.com/lakshaybhardwaj18/bid-rush) | Real-time auction platform built by a 5-member team as independent services for auth, bidding and notifications. I owned the **API Gateway** and **Auth Service**: JWT authentication, centralized middleware, and JWT forwarding between internal services. Redis distributed locking and BullMQ keep concurrent bids safe. | React, Node.js, Express, MongoDB, Redis, Socket.io |
-| [**Entertainment Booking System**](https://github.com/lakshaybhardwaj18/entertainment-ticket-booking-system) | Movie and game ticket booking with full booking lifecycle. Spring Security with BCrypt and USER/ADMIN roles, and optimistic locking (`@Version`) to prevent race conditions on concurrent bookings. | Java, Spring Boot, JPA, PostgreSQL |
-| [**DocMind AI**](https://github.com/lakshaybhardwaj18/doc-qa-system) | Ask questions over your own documents using retrieval-augmented generation. | Python, FastAPI, LangChain, ChromaDB |
+| [**Agentic AI Debugger**](LINK) | Multi-agent pipeline (Collector, Correlator, Reasoner, Verifier, Reporter) that finds root causes of microservice failures from unstructured logs, with no distributed tracing. Includes a timestamp- and dependency-based correlation engine, an LLM self-verification loop with automatic retry, a real-time CLI, and an evaluation harness checked against real Bid-Rush bugs. | Python, FastAPI, LangGraph, Groq |
+| [**Bid-Rush**](LINK) | Real-time auction platform built by a 5-member team as independent services for auth, bidding and notifications. I owned the **API Gateway** and **Auth Service**: JWT authentication, centralized middleware, and JWT forwarding between internal services. Redis distributed locking and BullMQ keep concurrent bids safe. | React, Node.js, Express, MongoDB, Redis, Socket.io |
+| [**Entertainment Booking System**](LINK) | Movie and game ticket booking with full booking lifecycle. Spring Security with BCrypt and USER/ADMIN roles, and optimistic locking (`@Version`) to prevent race conditions on concurrent bookings. | Java, Spring Boot, JPA, PostgreSQL |
+| [**DocMind AI**](LINK) | Ask questions over your own documents using retrieval-augmented generation. | Python, FastAPI, LangChain, ChromaDB |
 | [**AML Suspicious Activity Agent**](https://github.com/lakshaybhardwaj18/aml-suspicious-activity-agent) | AI agent that flags suspicious transactions for review. | Python |
 
 ## Tech Stack
@@ -41,13 +41,13 @@ Currently open to **full-stack**, **distributed systems / SDE** and **agentic AI
 
 **Frontend** &nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Backend** &nbsp; ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+**Backend** &nbsp; ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 **Data** &nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 **AI** &nbsp; ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-**Tools** &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+**Tools** &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 ## Currently
 
